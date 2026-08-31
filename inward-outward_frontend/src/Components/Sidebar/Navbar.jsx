@@ -116,6 +116,7 @@ const Navbar = ({
     // { icon: <TbUsers />, title: "Admin", path: "/admin", permission: "admin" },
     // { icon: <MdDiscount />, title: "Discount", path: "/productdiscount", permission: "discount" }, 
     { icon: <BiLayout />, title: "Inventory", path: "/inventory", permission: "inventory" },
+    { icon: <BiLayout />, title: "Admin", path: "/admin", permission: "admin" },
     // { icon: <TbTrash  />, title: "Product Disposal", path: "/defective", permission: "disposal" }, 
     // { icon: <TbReportAnalytics  />, title: "Report", path: "/report", permission: "report" },
   ];
