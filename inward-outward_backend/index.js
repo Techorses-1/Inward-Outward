@@ -72,7 +72,7 @@ cron.schedule("0 0 1 1 *", async () => {
 
 // Basic Route
 app.get('/', (req, res) => {
-  res.send('Praveen Inward OutWard Backend Runnig !');
+  res.send('New Th in-out Wrd OutWard Backend Runnig !');
 });
 
 // Server
